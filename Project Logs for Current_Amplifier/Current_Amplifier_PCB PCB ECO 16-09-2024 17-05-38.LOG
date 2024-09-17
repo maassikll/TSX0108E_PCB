@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CRY1 Pin=J1-1
+Removed Pin From Net: NetName=+12 Pin=J1-2
+Removed Pin From Net: NetName=CRY2 Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=CRY3 Pin=J1-5
+Removed Pin From Net: NetName=CRY4 Pin=J1-7
+Removed Pin From Net: NetName=CRY5 Pin=J1-9
+Removed Pin From Net: NetName=CRP Pin=J1-10
+Added Pin To Net: NetName=+12 Pin=J1-1
+Added Pin To Net: NetName=CRY1 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=CRY2 Pin=J1-4
+Added Pin To Net: NetName=CRY3 Pin=J1-6
+Added Pin To Net: NetName=CRY4 Pin=J1-8
+Added Pin To Net: NetName=CRP Pin=J1-9
+Added Pin To Net: NetName=CRY5 Pin=J1-10

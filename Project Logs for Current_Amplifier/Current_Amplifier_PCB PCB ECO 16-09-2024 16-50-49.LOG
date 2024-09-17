@@ -1,0 +1,172 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=C1(CAPC2013X140N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/08053C474JAT2A?qs=bb%252B1MDm7h6L8wnHciIrwGg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC2013X140N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/08053C474JAT2A?qs=bb%252B1MDm7h6L8wnHciIrwGg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2013X140N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/08053C474JAT2A?qs=bb%252B1MDm7h6L8wnHciIrwGg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2013X140N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/08053C474JAT2A?qs=bb%252B1MDm7h6L8wnHciIrwGg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC2013X140N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/08053C474JAT2A?qs=bb%252B1MDm7h6L8wnHciIrwGg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC2013X140N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-08053C474JAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/08053C474JAT2A?qs=bb%252B1MDm7h6L8wnHciIrwGg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/SK-AMS1117-5-0_C165483.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Shikues"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AMS1117-5.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOT229P700X180-4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-28/DSA-550594.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Advanced"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(SULLINS_SBH11-PBPC-D05-ST-BK)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SBH11-PBPC-D05-ST-BK/Sullins+Connector+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SBH11-PBPC-D05-ST-BK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SBH11-PBPC-D05-ST-BK/Sullins+Connector+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(SULLINS_SBH11-PBPC-D05-ST-BK)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SBH11-PBPC-D05-ST-BK/Sullins+Connector+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SBH11-PBPC-D05-ST-BK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SBH11-PBPC-D05-ST-BK/Sullins+Connector+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2012X65N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-europe.electrocomponents.com/webdocs/13d1/0900766b813d116f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0805B102RE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3v3 Pin=C1-1
+Added Pin To Net: NetName=+3v3 Pin=C5-1
+Added Pin To Net: NetName=+3v3 Pin=IC2-2
+Added Pin To Net: NetName=+3v3 Pin=IC2-4
+Added Pin To Net: NetName=+3v3 Pin=U1-2
+Added Net: Name=+3v3
+Added Pin To Net: NetName=+5 Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=+5 Pin=IC1-2
+Added Pin To Net: NetName=+5 Pin=IC1-4
+Added Pin To Net: NetName=+5 Pin=U1-19
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=C4-1
+Added Pin To Net: NetName=+12 Pin=C6-1
+Added Pin To Net: NetName=+12 Pin=IC1-3
+Added Pin To Net: NetName=+12 Pin=IC2-3
+Added Pin To Net: NetName=+12 Pin=J1-2
+Added Pin To Net: NetName=+12 Pin=J2-2
+Added Net: Name=+12
+Added Pin To Net: NetName=CRPA Pin=J2-10
+Added Pin To Net: NetName=CRPA Pin=U1-14
+Added Net: Name=CRPA
+Added Pin To Net: NetName=CRP Pin=J1-10
+Added Pin To Net: NetName=CRP Pin=U1-7
+Added Net: Name=CRP
+Added Pin To Net: NetName=CRY1 Pin=J1-1
+Added Pin To Net: NetName=CRY1 Pin=U1-1
+Added Net: Name=CRY1
+Added Pin To Net: NetName=CRY2 Pin=J1-3
+Added Pin To Net: NetName=CRY2 Pin=U1-3
+Added Net: Name=CRY2
+Added Pin To Net: NetName=CRY3 Pin=J1-5
+Added Pin To Net: NetName=CRY3 Pin=U1-4
+Added Net: Name=CRY3
+Added Pin To Net: NetName=CRY4 Pin=J1-7
+Added Pin To Net: NetName=CRY4 Pin=U1-5
+Added Net: Name=CRY4
+Added Pin To Net: NetName=CRY5 Pin=J1-9
+Added Pin To Net: NetName=CRY5 Pin=U1-6
+Added Net: Name=CRY5
+Added Pin To Net: NetName=CRYA1 Pin=J2-1
+Added Pin To Net: NetName=CRYA1 Pin=U1-20
+Added Net: Name=CRYA1
+Added Pin To Net: NetName=CRYA2 Pin=J2-3
+Added Pin To Net: NetName=CRYA2 Pin=U1-18
+Added Net: Name=CRYA2
+Added Pin To Net: NetName=CRYA3 Pin=J2-5
+Added Pin To Net: NetName=CRYA3 Pin=U1-17
+Added Net: Name=CRYA3
+Added Pin To Net: NetName=CRYA4 Pin=J2-7
+Added Pin To Net: NetName=CRYA4 Pin=U1-16
+Added Net: Name=CRYA4
+Added Pin To Net: NetName=CRYA5 Pin=J2-9
+Added Pin To Net: NetName=CRYA5 Pin=U1-15
+Added Net: Name=CRYA5
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-10
+Added Net: Name=NetR1_1
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component C1 0.1uF
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component C2 0.1uF
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component C3 22uF
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component C4 22uF
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component C5 22uF
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component C6 22uF
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component IC1 AMS1117-5.0
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component IC2 AMS1117-3.3
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component J1 SBH11-PBPC-D05-ST-BK
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component J2 SBH11-PBPC-D05-ST-BK
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component R1 100
