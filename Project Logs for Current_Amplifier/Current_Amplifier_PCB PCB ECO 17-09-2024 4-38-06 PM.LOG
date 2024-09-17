@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=J2
+Change Component Designator: OldDesignator= NewDesignator=J?
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=U1
+Added Pin To Net: NetName=LRP Pin=J1-5
+Added Pin To Net: NetName=LRP Pin=J2-6
+Added Net: Name=LRP
+Added Pin To Net: NetName=N Pin=J1-7
+Added Pin To Net: NetName=N Pin=J2-8
+Added Net: Name=N
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component C1 0.1uF
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component C2 0.1uF
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component J2 SBH11-PBPC-D05-ST-BK
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component R1 100
+Added Member To Class: ClassName=Current_Amplifier_Shematics Member=Component U1 TXS0108EPWR
+Added Room: Name=Current_Amplifier_Shematics
